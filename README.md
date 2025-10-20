@@ -1,4 +1,4 @@
-# Urban Morphology with Python: City Structure as Predictor and Target
+# Urban Morphology with Python: City Structure as a Predictor and a Target
 
 The materials for the SDSS 2025 on Urban Morphology with Python.
 
