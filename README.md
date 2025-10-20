@@ -1,6 +1,6 @@
 # Urban Morphology with Python: City Structure as a Predictor and a Target
 
-The materials for the SDSS 2025 on Urban Morphology with Python.
+The materials for the SDSS 2025 workshop on Urban Morphology with Python conducted by [**Martin Fleischmann**](https://github.com/martinfleis) and [**James D. Gaboardi**](https://github.com/jGaboardi).
 
 ## Setting up to follow the workshop
 
@@ -96,3 +96,7 @@ jupyter lab workshop.ipynb
 ## Data
 
 This repository contains a subset of data retrieved from the [CDRC](https://data.cdrc.ac.uk/dataset/index-multiple-deprivation-imd#data-and-resources) under UK Open Government Licence (OGL). Data provided by the Consumer Data Research Centre, an ESRC Data Investment: ES/L011840/1, ES/L011891/1.
+
+## Acknowledgements
+
+* Copyright: This manuscript has been authored in part by UT-Battelle, LLC under Contract No. DE-AC05-00OR22725 with the U.S. Department of Energy. The United States Government retains and the publisher, by accepting the article for publication, acknowledges that the United States Government retains a non-exclusive, paid-up, irrevocable, world-wide license to publish or reproduce the published form of this manuscript, or allow others to do so, for United States Government purposes. The Department of Energy will provide public access to these results of federally sponsored research in accordance with the DOE Public Access Plan (`http://energy.gov/downloads/doe-public-access-plan`).
