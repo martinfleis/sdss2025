@@ -1,6 +1,6 @@
 # Urban Morphology with Python: City Structure as a Predictor and a Target
 
-The materials for the SDSS 2025 workshop on Urban Morphology with Python conducted by [**Martin Fleischmann**](https://github.com/martinfleis) and [**James D. Gaboardi**](https://github.com/jGaboardi).
+The materials for the [SDSS 2025 workshop](http://sdss2025.spatial-data-science.net/index.html#:~:text=Urban%20Morphology%20with%20Python:%20City%20Structure%20as%20a%20Predictor%20and%20a%20Target) on Urban Morphology with Python conducted by [**Martin Fleischmann**](https://github.com/martinfleis) and [**James D. Gaboardi**](https://github.com/jGaboardi).
 
 ## Setting up to follow the workshop
 
