@@ -22,6 +22,11 @@ dependencies = [
     "scikit-learn>=1.6.1",
 ]
 
+[tool.ruff]
+line-length = 88
+lint.select = ["E", "F", "W", "I", "UP", "N", "B", "A", "C4", "SIM", "ARG"]
+lint.ignore = ["B006", "SIM108", "C420"]
+include = ["*.py", "*.ipynb"]
 
 [tool.pixi.workspace]
 channels = ["conda-forge"]
