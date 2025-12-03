@@ -5,6 +5,7 @@ dependencies:
   - python
   - bokeh>=3.7.2,<4
   - clustergram>=0.8.1,<0.9
+  - fast_hdbscan
   - geopandas>=1.0.1,<2
   - geopy>=2.4.1,<3
   - ipywidgets>=8.1.6,<9
@@ -15,6 +16,7 @@ dependencies:
   - osmnx>=2.0.2,<3
   - scikit-learn>=1.6.1,<2
   - shapely>=2.1.0,<3
+  - spopt
   - pip
   - pip:
       - geoplanar
