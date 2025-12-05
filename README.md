@@ -92,7 +92,7 @@ You can also install the necessary dependencies from PyPI using `pip`. The instr
 can be used both locally and within Google Colab.
 
 ```bash
-pip install momepy scikit-learn numba osmnx geopy matplotlib mapclassify folium clustergram bokeh geoplanar neatnet
+pip install momepy scikit-learn numba osmnx geopy matplotlib mapclassify folium spopt fast_hdbscan geoplanar neatnet
 ```
 
 If you are working locally (not using Google Colab), you may want to install Jupyter Lab

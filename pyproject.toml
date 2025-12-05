@@ -7,6 +7,7 @@ requires-python = ">=3.11"
 dependencies = [
     "bokeh>=3.7.2",
     "clustergram>=0.8.1",
+    "fast-hdbscan>=0.2.2",
     "folium>=0.19.5",
     "geopandas>=1.0.1",
     "geoplanar>=0.4.0",
@@ -20,6 +21,7 @@ dependencies = [
     "numba>=0.61.2",
     "osmnx>=2.0.2",
     "scikit-learn>=1.6.1",
+    "spopt>=0.7.0",
 ]
 
 [tool.ruff]
