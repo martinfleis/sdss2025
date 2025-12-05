@@ -6,7 +6,13 @@ on Urban Morphology with Python conducted by
 [**Martin Fleischmann**](https://github.com/martinfleis) and
 [**James D. Gaboardi**](https://github.com/jGaboardi).
 
-## Setting up to follow the workshop
+## Running in browser
+
+The easiest way to follow the workshop it to open the notebook in Google Colab:
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/martinfleis/sdss2025/blob/main/workshop.ipynb)
+
+## Setting up to follow the workshop locally
 
 ### Step 1: Download the workshop material
 
@@ -84,9 +90,7 @@ Then you can start the notebook.
 jupyter lab workshop.ipynb
 ```
 
-#### pip / Google Colab
-
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/martinfleis/sdss2025/blob/main/workshop.ipynb)
+#### pip
 
 You can also install the necessary dependencies from PyPI using `pip`. The instructions
 can be used both locally and within Google Colab.
